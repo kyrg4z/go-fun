@@ -1,4 +1,10 @@
+# Executables
 *.exe
-!*/
-!*.*
+**/proxy/proxy
+**/scanner/scanner
+**/*
+!**/
+!**/*.*
+
+# Project specific
 .local.md
